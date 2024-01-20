@@ -1,10 +1,7 @@
 ## Yello 👋, I am Meet
 ![](https://komarev.com/ghpvc/?username=mit-bhalodi)
 
-- 👔 I am UI Designer
-- 👞 I Love CSS
-- 👑 Currently I am working Javascript
-- 🦁 I love no-code platforms
+- 👔 I am an Angular Developer
 
 [![Meet's Github Stats](https://github-readme-stats.vercel.app/api?username=mit-bhalodi)](https://github.com/anuraghazra/github-readme-stats)
 
