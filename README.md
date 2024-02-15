@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 - Nest.js
 
 ## Get in Touch
-📫 You can reach out to me via email at [your@email.com](mailto:mitbhalodi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mit-bhalodi/).
+📫 You can reach out to me via email at [mitbhalodi@gmail.com](mailto:mitbhalodi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mit-bhalodi/).
 
 Let's collaborate and build something amazing together! 😊
 
